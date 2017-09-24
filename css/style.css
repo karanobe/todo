@@ -76,9 +76,8 @@ ul li.checked::before {
     color: white;
     text-align: center;
     margin-left: auto;
-    margin-top: 60px;
     margin-right: auto;
-    width: 65%;
+    width: 100%;
 }
 
 /* Clear floats after the header */
@@ -112,4 +111,14 @@ input {
 
 .addBtn:hover {
     background-color: #bbb;
+}
+
+a.port-link {
+    border-color: white;
+    color: #f44336;
+}
+
+a.port-link:hover {
+    color: white;
+    text-decoration: none; 
 }
