@@ -44,6 +44,7 @@ ul li:hover {
 ul li.checked {
     /*background: #888;*/
     /*color: #fff;*/
+    background-color: indianred;
     text-decoration: line-through red;
 }
 
